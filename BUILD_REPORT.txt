@@ -1,0 +1,8 @@
+Lovec vltavínů Reborn 5.3
+
+Status:
+- Besednice visibility fix: applied
+- Stage 2 gameplay continuation: applied
+- Stage 3 HUD/animation continuation: applied
+- JS syntax check: pending external command
+- Approx build size: 8962691 B
