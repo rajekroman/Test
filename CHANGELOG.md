@@ -1,9 +1,12 @@
-# Lovec vltavínů Reborn 5.1
+# Lovec vltavínů Reborn 5.4.1
 
-## Reálnější lokality
+## Kritické opravy
 
-- Chlum: otevřené zvlněné pole, vzdálený les, hluboké výkopy, haldy hlíny a strniště.
-- Ločenice: řídký borový les, světlé písčité podloží, valy, jámy a popadané kmeny.
-- Besednice: rozrytá těžební plocha, pásové stopy, zemní valy, hlubší jámy a bagry.
-- Slávie: historická fasáda s trojúhelníkovým štítem spojená s moderní bílou přístavbou a proskleným parterem.
-- Herní logika, bossové, hudba a ovládání zůstaly zachované.
+- obnovené chybějící funkce `drawPatrol`, `drawItem` a `drawHotspot`;
+- hra už nespadne při prvním vykreslení levelu;
+- opravené vykreslení traktoru, hlídek, kamenů, dokumentů, stop a profilů;
+- opravené zavírání upozornění o krádeži bez nekonečného vytváření časovačů;
+- boss začne honičku až po přečtení upozornění;
+- přidaná kontrola, aby se boss nespustil po odchodu z Besednice;
+- pohybová stopa bosse se kreslí pouze během sprintu;
+- kužel svítilny se nezobrazuje, když je boss omráčený.
