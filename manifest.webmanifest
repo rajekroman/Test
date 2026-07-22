@@ -1,7 +1,7 @@
 {
   "name": "Lovec vltavínů: Zelená vlna",
   "short_name": "Lovec vltavínů",
-  "description": "Mobilní arkádová výprava s opravenou detekcí svítilen, hlídek a ukazatelem nebezpečí.",
+  "description": "Mobilní arkádová hra o hledání vltavínů v jihočeských lokalitách, zakončená výstavou ve Slávii.",
   "lang": "cs",
   "start_url": "./",
   "scope": "./",
